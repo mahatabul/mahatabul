@@ -25,5 +25,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahatabul&show_icons=true&locale=en" alt="mahatabul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahatabul&" alt="mahatabul" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahatabul&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ff0000&fire=ff4500&currStreakLabel=00ffff" alt="mahatabul's GitHub Streak" />
+</p>
+
 
