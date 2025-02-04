@@ -23,7 +23,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatabul&show_icons=true&locale=en&layout=compact" alt="mahatabul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahatabul&show_icons=true&locale=en" alt="mahatabul" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahatabul&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=ff4500&text_color=ffffff" alt="mahatabul's GitHub Stats" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahatabul&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ff0000&fire=ff4500&currStreakLabel=00ffff" alt="mahatabul's GitHub Streak" />
