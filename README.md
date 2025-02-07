@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/md-mahatabul-islam" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces" width="40" height="40"/>
   </a>
   <a href="https://www.leetcode.com/mahatabul-islam" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
@@ -83,9 +83,22 @@
 
 ### 🐍 **GitHub Contribution Snake**
 
-<p align="center">
-  <img src="https://github.com/mahatabul/mahatabul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
 
 ---
 
