@@ -24,7 +24,7 @@
 
 - 🔭 Currently working on **Data Structures, Algorithms, and Web Development**  
 - 🌱 Learning **Python, DSA, Full-Stack Development**  
-- 📫 Reach me at **shikanoko2020@duck.com**  
+- 📫 Reach me at **rozinislam2002@gmail.com**  
 - ⚡ Fun Fact: I love exploring new technologies and solving challenging problems!
 
 ---
