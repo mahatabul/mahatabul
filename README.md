@@ -76,10 +76,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahatabul&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=ff4500&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahatabul&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahatabul)](https://git.io/streak-stats)
 
 ---
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahatabul&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 ### 🐍 **GitHub Contribution Snake**
 
 <picture>
