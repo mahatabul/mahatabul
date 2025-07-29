@@ -76,9 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahatabul&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=ff4500&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahatabul&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ff0000&fire=ff4500&currStreakLabel=00ffff" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahatabul&theme=dark)](https://git.io/streak-stats)
 
 ---
 
