@@ -60,10 +60,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="NodeJs" width="40" height="40" />
+   <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="expressjs" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ymChOaFRZ65S-dm2XLcYrQHaHa%26pid%3DApi&f=1&ipt=08ced859323a72042d4983ae90a2edce023cb3ff74b094e43f9f122034ce9b66" alt="Linux" width="40" height="40" />
-  
 </p>
 
 ---
