@@ -5,15 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=mahatabul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 🚀 **About Me**
+## 🚀 About Me
 
-- I'm a CSE student & self-taught backend-focused web developer based in Bangladesh
+- **👤 Who am I?**  
+  CSE student & self-taught backend-focused web developer based in Bangladesh
 
-- Working on Basic to intermediate full-stack web projects to enhance my skill set 🚀
+- **🛠 Currently working on**  
+  Basic to intermediate full-stack web projects 🚀
 
-- I use MERN Stack (MongoDB, Express, React, Node.js) tools 
+- **⚙️ Tools**  
+  MERN Stack (MongoDB, Express, React, Node.js)
 
-- Fun Fact: I love exploring new technologies and solving challenging problems!
+- **⚡ Fun Fact**  
+  I love exploring new technologies and solving challenging problems!
+
 
 ---
 
