@@ -1,31 +1,19 @@
 <h1 align="center">👋 Hi, I'm Mohammed Mahatabul Islam</h1>
-<h3 align="center">💻 Computer Science Student at HSTU, Bangladesh</h3>
-<p align="center">🌱 Exploring C/C++, Python, and diving into Full-Stack Web Development 🚀</p>
 
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750254-164d17a0-7b63-4c55-9516-b0809f6b9c14.gif" alt="Coding" width="600"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahatabul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahatabul&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🚀 **About Me**
 
-- 🔭 Currently working on **Data Structures, Algorithms, and Web Development**  
-- 🌱 Learning **Python, DSA, Full-Stack Development**  
-- 📫 Reach me at **rozinislam2002@gmail.com**  
-- ⚡ Fun Fact: I love exploring new technologies and solving challenging problems!
+- I'm a CSE student & self-taught backend-focused web developer based in Bangladesh
+
+- Working on Basic to intermediate full-stack web projects to enhance my skill set 🚀
+
+- I use MERN Stack (MongoDB, Express, React, Node.js) tools 
+
+- Fun Fact: I love exploring new technologies and solving challenging problems!
 
 ---
 
