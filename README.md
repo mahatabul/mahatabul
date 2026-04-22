@@ -1,85 +1,112 @@
-<h1 align="center">👋 Hi, I'm Mohammed Mahatabul Islam</h1>
+<div align="center">
 
+```
+███╗   ███╗ █████╗ ██╗  ██╗ █████╗ ████████╗ █████╗ ██████╗ ██╗   ██╗██╗
+████╗ ████║██╔══██╗██║  ██║██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██║   ██║██║
+██╔████╔██║███████║███████║███████║   ██║   ███████║██████╔╝██║   ██║██║
+██║╚██╔╝██║██╔══██║██╔══██║██╔══██║   ██║   ██╔══██║██╔══██╗██║   ██║██║
+     ██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║██████╔╝╚██████╔╝███████╗
+     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahatabul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**`Mohammed Mahatabul Islam`** · CSE Student · Backend-Focused Dev · Bangladesh 🇧🇩
 
-## 🚀 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=mahatabul&label=profile+views&color=00ff88&style=flat-square)](https://github.com/mahatabul)
 
-- **👤 Who am I?**  
-  CSE student & self-taught backend-focused web developer based in Bangladesh
-
-- **🛠 Currently working on**  
-  Basic to intermediate full-stack web projects 🚀
-
-- **⚙️ Tools**  
-  MERN Stack (MongoDB, Express, React, Node.js)
-
-- **⚡ Fun Fact**  
-  I love exploring new technologies and solving challenging problems!
-
+</div>
 
 ---
 
-### 🤝 **Connect with Me**
+```bash
+$ whoami
+> mahatabul
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammed-mahatabul-islam" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://fb.com/mahatabul-islam" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/md-mahatabul-islam" target="_blank">
-    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces" width="40" height="40"/>
-  </a>
-  <a href="https://www.leetcode.com/mahatabul-islam" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/rozinisl7i3h" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
-  </a>
-</p>
+$ cat about.txt
+  ├── 🎓  CSE student — turning caffeine into commits
+  ├── 🔧  Backend-focused, full-stack curious
+  ├── 🌐  Currently grinding: basic → intermediate full-stack projects
+  ├── ⚙️   Stack: MERN (MongoDB · Express · React · Node.js)
+  └── ⚡  Side effect: addicted to exploring new tech
+```
 
 ---
 
-### 🛠️ **Languages & Tools**
+## `~/stack`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-icon-svg-download-png-1174953.png" alt="Java" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="NodeJs" width="40" height="40" />
-   <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="expressjs" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-</p>
+**Languages**
 
----
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 📊 **GitHub Stats**
+**Web & Runtime**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatabul&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00ffff&text_color=ffffff" alt="Top Languages" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahatabul&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=ff4500&text_color=ffffff" alt="GitHub Stats" />
-</p>
+**Tools & OS**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahatabul)](https://git.io/streak-stats)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
+## `~/stats`
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahatabul&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mahatabul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00bfff&text_color=c9d1d9&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatabul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahatabul&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00bfff&currStreakLabel=00ff88)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<p align="center">✨ *“Strive not to be a success, but rather to be of value.” – Albert Einstein* ✨</p>
+## `~/activity`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahatabul&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00bfff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## `~/competitive`
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/md-mahatabul-islam)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/mahatabul-islam)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rozinisl7i3h)
+
+---
+
+## `~/connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-mahatabul-islam)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/mahatabul-islam)
+
+---
+
+<div align="center">
+
+```
+// life.js
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
+
+*"Strive not to be a success, but rather to be of value." — Albert Einstein*
+
+</div>
